@@ -1,0 +1,12 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "calculator2".(œü‹Ð
+V
+java:S1854";Remove this useless assignment to local variable "service".(„˜Î¾úÿÿÿÿ
+G
+java:S1481",Remove this unused "service" local variable.(„˜Î¾úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×§Ü¶ýÿÿÿÿ
+F
+java:S1481"0Remove this unused "calculator2" local variable.(œü‹Ð
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×§Ü¶ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö•‚´

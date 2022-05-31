@@ -31,5 +31,6 @@ public class Main {
         //Concepto 3 scope o alcance
         //por defecto son singleton, se crea un objeto y se usa para toda la aplicacion
         //el scope prototype se crea uno nuevo cada vez que se usa
+
     }
 }

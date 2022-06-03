@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+}
+/* comentario */
+p {
+    color: blue;
+    font-size: 24px;
+}
+/*selector de id*/
+p#selector{
+    color: aqua;
+}
+#ids{
+    color: violet;
+}
+
+/*selector de clase */
+
+.encabezado {
+    color: burlywood;
+}
+
+/* selector universal */
+* {
+
+}
+
+/* selector todos los elementos que tengan clase warning */
+* .warning{
+    
+}
+
+/*multiple asignacion*/
+.autor, .fecha, .ubicacion, h1, #ides {
+    text-decoration: underline;
+}

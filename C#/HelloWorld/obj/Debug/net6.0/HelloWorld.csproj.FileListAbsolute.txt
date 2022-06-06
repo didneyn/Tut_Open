@@ -1,0 +1,15 @@
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/dnieto/Workspace/Tut_Open/C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll

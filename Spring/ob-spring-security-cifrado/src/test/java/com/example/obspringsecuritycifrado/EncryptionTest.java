@@ -27,7 +27,7 @@ public class EncryptionTest {
         String hashedPassword = passwordEncoder.encode("admin");
         System.out.println(hashedPassword);
 
-        boolean matches = passwordEncoder.matches("adminn", hashedPassword);
+        boolean matches = passwordEncoder.matches("admin", hashedPassword);
         System.out.println(matches);
     }
     @Test

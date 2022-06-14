@@ -18,9 +18,7 @@ class Coche(Vehiculo):
     cilindrada = None
 
     def __init__(self, color, ruedas, puertas, velocidad, cilindrada):
-        self.color = color
-        self.ruedas = ruedas
-        self.puertas = puertas
+        super().__init__(color,ruedas,puertas)
         self.velocidad = velocidad
         self.cilindrada = cilindrada
 
